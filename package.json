@@ -1,0 +1,35 @@
+{
+    "name": "com.dgn.respawner",
+    "version": "1.0.0",
+    "displayName": "Respawner",
+    "description": "For respawn items with curtain condition",
+    "unity": "2019.4",
+    "dependencies": {
+        "com.dgn.unity-attributes": "1.0.7"
+    },
+    "keywords": [
+        "Respawner",
+        "Respawn"
+    ],
+    "samples": [
+        {
+            "displayName": "XR Toolkits Extensions",
+            "description": "Respawner for XR toolkits extensions",
+            "path": "Extensions~/XR Toolkits Extensions"
+        }
+    ],
+    "author": {
+        "name": "Dragan O. Wip",
+        "email": "onchulee.wip@hotmail.com",
+        "url": "https://github.com/Onchulee/Respawner#readme"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Onchulee/Respawner.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Onchulee/Respawner/issues"
+    },
+    "homepage": "https://github.com/Onchulee/Respawner#readme"
+}
